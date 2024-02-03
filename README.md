@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mern Stack Developer</h1>
-<h3 align="center">A passionate mern stack developer from Uzbekistan</h3>
+<h3 align="center">Own Blog - Mern Stack Mohiyati | Dasturlash YouTube Channel</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshod-abdirazzoqov&label=Profile%20views&color=0e75b6&style=flat" alt="dilshod-abdirazzoqov" /> </p>
 
